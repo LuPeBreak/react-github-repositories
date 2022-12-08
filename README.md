@@ -34,7 +34,7 @@ Github Repositories é um projeto para pesquisar e listar repositorios do github
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. 
 
 ---
 
